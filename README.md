@@ -1,9 +1,10 @@
 <p align='center'><img src='https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/41c71da6-5e8c-4e14-b182-013fafdd3862' width="250" ></p>
 <h1 align='center'> Your Abstractor</h1> 
+<p align='center'>Deployed Link: https://your-abstractor.netlify.app/ </p>
 
 ## Introduction 🐱‍💻
 Your Abstractor summarizes a website within seconds. It uses **OpenAI GPT-4**
-to provide an abstract of an website. This can be useful in writing reports, assignments, research papers, etc. It uses <a href="https://rapidapi.com/restyler/api/article-extractor-and-summarizer">Rapid API Article Extractor and Summarizer</a> to summarize the contents of the website. 
+to provide an abstract of an website. **This can be useful in writing reports, assignments, research papers, etc.** It uses <a href="https://rapidapi.com/restyler/api/article-extractor-and-summarizer">Rapid API Article Extractor and Summarizer</a> to summarize the contents of the website. 
 
 ## Tech Stack used 👨‍💻
 <p align="left"> 
@@ -16,8 +17,8 @@ to provide an abstract of an website. This can be useful in writing reports, ass
 
 - **Responsive** ✨. 
 - **Summarizes** content within seconds 🗒️
-- **Saves history** of the previous search
-- **Copies** URL in the clipboard
+- **Saves history** of the previous search.
+- **Copies** URL in the clipboard. 
 ## Learnings 📝
   
 - Learned about the usage of **Rapid API's** 
