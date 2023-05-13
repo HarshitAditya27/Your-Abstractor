@@ -1,4 +1,4 @@
-<p align='center'><img src='https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/41c71da6-5e8c-4e14-b182-013fafdd3862' width="250" ></p>
+<p align='center'><img src='https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/7f3cfb5d-73c4-43a2-b269-652d5cbfd523' width="250" ></p>
 <h1 align='center'> Your Abstractor</h1> 
 <p align='center'>Deployed Link: https://your-abstractor.netlify.app/ </p>
 
@@ -47,12 +47,12 @@ Hurray 🥳, you successfully deployed the project in your local machine 🎉.
    🚨 Only the Frontend of the app will work **the main functionality of providing abstract won't work as it will need <a href="https://rapidapi.com/restyler/api/article-extractor-and-summarizer"> Rapid API Article Extractor and Summarizer </a> API key**. After inserting the API KEY, the project will start working 🔥.
   
   ## Screenshots  
-  ![Screenshot (79)](https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/151f8bca-fecb-4578-9295-b7c89bb38a03)
-![Screenshot (83)](https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/a1bce6b8-2a44-44fb-8bae-11a688e2bf94) 
-  ![Screensho![Original Content](https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/c7889d3c-d1ec-49c7-bb58-fb18398a875a)
-t (84)](https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/dbccc461-a7a2-4501-a313-9a4dc42fb016)
+![Screenshot (79)](https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/5f0538a6-8374-4b61-939a-43b7f6e9eea6)
+![Screenshot (83)](https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/b620e93a-d71f-4ba2-b15b-f13a88a08534)
+![Screenshot (84)](https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/107e0918-7a4e-48a7-b027-9d5cf69f31e4)
 
-![Original Content](https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/a1f9d0b6-4330-4efa-84a9-175474b5c809)
+![Original Content](https://github.com/HarshitAditya27/Your-Abstractor/assets/71604531/51045644-53c8-4d10-9b8f-a7f2fa154861)
+
 
   ## Loved the project 💖? 
   
